@@ -12,12 +12,12 @@ This series is recursively generated, meaning to generate any new term, the prio
 * Simultaneously progress on all possible sequences which are based on this data.
 
 ## Derivative Sequences
-Numbers n such that A114216(n)=k:
+Numbers n such that A114216(n)=m:
 
-* [A114217](https://oeis.org/A114217) (k=1)
-* [A114221](https://oeis.org/A114221) (k=3) 
-* [A114222](https://oeis.org/A114222) (k=7)
-* [A114224](https://oeis.org/A114224) (k=17) 
+* [A114217](https://oeis.org/A114217) (m=1)
+* [A114221](https://oeis.org/A114221) (m=3) 
+* [A114222](https://oeis.org/A114222) (m=7)
+* [A114224](https://oeis.org/A114224) (m=17) 
 
 ## Author
 
