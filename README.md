@@ -14,7 +14,7 @@ This series is recursively generated, meaning to generate any new term, the prio
 ## Derivative Sequences
 Numbers n such that A114216(n)=k:
 
-* A114217(https://oeis.org/A114217) (k=1)
-* A114221(https://oeis.org/A114221) (k=3)
-* A114222(https://oeis.org/A114222) (k=7)
-* A114224(https://oeis.org/A114224) (k=17).
+* (k=1)   A114217 (https://oeis.org/A114217)
+* (k=3)   A114221 (https://oeis.org/A114221) 
+* (k=7)   A114222 (https://oeis.org/A114222) 
+* (k=17)  A114224 (https://oeis.org/A114224) 
