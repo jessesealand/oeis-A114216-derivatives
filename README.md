@@ -1,3 +1,7 @@
-# oeis-A114216-derivatives
+# OEIS Sequence A114216
 (OEIS) Numbers n such that A114216(n)=k.
-https://oeis.org/A114216
+Reference: (https://oeis.org/A114216)
+
+## About
+
+
