@@ -14,10 +14,13 @@ This series is recursively generated, meaning to generate any new term, the prio
 ## Derivative Sequences
 Numbers n such that A114216(n)=m:
 
-* [A114217](https://oeis.org/A114217) (m=1)
-* [A114221](https://oeis.org/A114221) (m=3) 
-* [A114222](https://oeis.org/A114222) (m=7)
-* [A114224](https://oeis.org/A114224) (m=17) 
+| m | Numbers n such that A114216(n)=m | Values k such that A114216(n)=m |
+| --- | --- | --- |
+| 1 | [A114217](https://oeis.org/A114217) | [A114218](https://oeis.org/A114218) |
+| 3 | [A114221](https://oeis.org/A114221) | |
+| 7 | [A114222](https://oeis.org/A114222) | |
+| 11 | [A114223](https://oeis.org/A114223) | |
+| 17 | [A114224](https://oeis.org/A114224) | |
 
 ## Author
 
