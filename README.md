@@ -18,3 +18,7 @@ Numbers n such that A114216(n)=k:
 * [A114221](https://oeis.org/A114221) (k=3) 
 * [A114222](https://oeis.org/A114222) (k=7)
 * [A114224](https://oeis.org/A114224) (k=17) 
+
+## Author
+
+* **Jesse C. Sealand** - [jessesealand](https://github.com/jessesealand)
