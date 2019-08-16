@@ -14,7 +14,7 @@ This series is recursively generated, meaning to generate any new term, the prio
 ## Derivative Sequences
 Numbers n such that A114216(n)=m:
 
-| m | Numbers n such that A114216(n)=m | Values k such that A114216(n)=m |
+| t | Numbers n such that A114216(n)=t | Values k such that A114216(n)=m |
 | --- | --- | --- |
 | 1 | [A114217](https://oeis.org/A114217) | [A114218](https://oeis.org/A114218) |
 | 3 | [A114221](https://oeis.org/A114221) | |
