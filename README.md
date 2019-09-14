@@ -11,6 +11,18 @@ This series is recursively generated, meaning to generate any new term, the prio
 * Retain known data to create repository for future progress, without recalculating prior work
 * Simultaneously progress on all possible sequences which are based on this data.
 
+## Progress
+
+I am in the process of recalculating A114216 up to the noted limit of (4 * 10^9) that Donovan Johnson previously investigated. I will provide updates semi-regularly until we reach this point.
+
+    Completed:  7.75% (310,000,000 / 4,000,000,000‬)
+    CPU Hours:  248
+    
+    Remaining:  92.25%
+    CPU Hours:  2952
+                
+ 
+ 
 ## Derivative Sequences
 Numbers n such that A114216(n)=m:
 
