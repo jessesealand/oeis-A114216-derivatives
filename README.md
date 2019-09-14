@@ -20,6 +20,8 @@ I am in the process of recalculating A114216 up to the noted limit of (4 * 10^9)
     
     Remaining:  92.25%
     CPU Hours:  2952
+    
+    Last Update:   9/14/2019
                 
  
  
