@@ -15,13 +15,13 @@ This series is recursively generated, meaning to generate any new term, the prio
 
 I am in the process of recalculating A114216 up to the noted limit of (4 * 10^9) that Donovan Johnson previously investigated. I will provide updates semi-regularly until we reach this point.
 
-    Completed:  7.75% (310,000,000 / 4,000,000,000‬)
-    CPU Hours:  248
+    Completed:  12.0% (480,000,000 / 4,000,000,000‬)
+    CPU Hours:  512
     
-    Remaining:  92.25%
-    CPU Hours:  2952
+    Remaining:  88.0%
+    CPU Hours:  3754
     
-    Last Update:   9/14/2019
+    Last Update:   9/29/2019
                 
  
  
